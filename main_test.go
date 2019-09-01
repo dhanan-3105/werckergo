@@ -1,4 +1,4 @@
-//  
+
 package main
 
 import (
@@ -16,4 +16,4 @@ func TestHandleIndexReturnsWithStatusOK(t *testing.T) {
 		t.Fatalf("Non-expected status code%v:\n\tbody: %v", "200", response.Code)
 	}
 }
-© 2019 GitHub, In
+
